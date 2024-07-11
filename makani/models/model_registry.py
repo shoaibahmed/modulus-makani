@@ -18,7 +18,7 @@ import importlib.util
 
 # we need this here for the code to work
 import importlib_metadata
-from importlib.metadata import EntryPoint, entry_points
+from importlib_metadata import EntryPoint, entry_points
 
 import logging
 
